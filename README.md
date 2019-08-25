@@ -21,7 +21,7 @@ $ sudo apt-get install -y libatlas-base-dev
 $ pip3 install -U --user six wheel mock
 $ sudo pip3 uninstall tensorflow
 $ wget https://github.com/mefitzgerald/Tensorflow-bin/raw/master/tensorflow-1.13.1-cp35-cp35m-linux_armv7l.whl
-$ sudo pip3 install tensorflow-1.14.0-cp35-cp35m-linux_armv7l.whl
+$ sudo pip3 install tensorflow-1.13.1-cp35-cp35m-linux_armv7l.whl
 
 【Required】 Restart the terminal.
 ```
